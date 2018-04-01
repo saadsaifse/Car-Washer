@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  firstscreen.carwasher:
+    image: firstscreen.carwasher
+    build:
+      context: .
+      dockerfile: FirstScreen.CarWasher\Dockerfile

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstScreen.CarWasher", "FirstScreen.CarWasher\FirstScreen.CarWasher.csproj", "{B925990C-D5A2-4EE6-A85E-DB225F6D2B21}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{63C1C0EA-259B-4FD0-9330-10836A22E540}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B925990C-D5A2-4EE6-A85E-DB225F6D2B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B925990C-D5A2-4EE6-A85E-DB225F6D2B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B925990C-D5A2-4EE6-A85E-DB225F6D2B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B925990C-D5A2-4EE6-A85E-DB225F6D2B21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63C1C0EA-259B-4FD0-9330-10836A22E540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C1C0EA-259B-4FD0-9330-10836A22E540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C1C0EA-259B-4FD0-9330-10836A22E540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C1C0EA-259B-4FD0-9330-10836A22E540}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B13322C3-D4F2-4A9D-8D2B-1F9BCBF4A3E5}
+	EndGlobalSection
+EndGlobal
